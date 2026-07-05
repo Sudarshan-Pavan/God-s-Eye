@@ -341,9 +341,7 @@ These iterations document the engineering process followed during system develop
 
 Software Engineer | Computer Vision | Embedded AI | Intelligent Systems
 
-GitHub: https://github.com/Sudarshan-Pavan
-
-LinkedIn: *(Add your LinkedIn URL)*
+[LinkedIn](http://www.linkedin.com/in/sudarshan-pavan-kumar-pulipaka)
 
 ---
 
